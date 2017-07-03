@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "import/newline-after-import": "off",
+    "no-console": "off",
+    "comma-dangle": "off",
+    "import/no-dynamic-require": "off",
+    "no-param-reassign": "off"
+  }
+}
